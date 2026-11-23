@@ -1,7 +1,7 @@
 # Upscaler
 
 A free, personal, non-commercial AI image upscaler for Windows. It enlarges photos 2× to 6× (or to any size)
-with AI models that run on your own graphics card. Optional extras clean up JPEG artefacts and noise and enhance
+with AI models that run on your own graphics card. Optional extras clean up JPEG artifacts and noise and enhance
 faces, and an opt-in generative mode rebuilds very small or damaged photos.
 
 **Download:** the installer is under [Releases](../../releases/latest).
